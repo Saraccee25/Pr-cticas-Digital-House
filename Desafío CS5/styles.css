@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+
+h1 {
+    background-color: #BEADFA; 
+    font-family: 'Oswald', sans-serif;
+}
+header {
+    text-align: center;
+    background-color: #FFF3DA;
+  }
+
+body{
+    background-color: #DFCCFB;
+  }
+h2{
+    background-color: #D0BFFF;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  #perfil {
+    display: block;
+    margin: 0 auto;
+    border-radius: 70%;
+    width: 150px; 
+    height: 200px; 
+  }
+
+.bold {
+    font-weight: bold;
+    font-style: italic;
+  }
+
+li{
+    font-size: larger;
+}
+
+
+
+footer {
+    text-align: center; /
+    background-color: #D0BFFF;
+    padding: 20px 0; 
+}
+
+.footer-content {
+    display: inline-flex; 
+    align-items: center; 
+}
+
+#instagram-logo {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+  
+  
